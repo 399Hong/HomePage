@@ -50,14 +50,14 @@
         - Java
 
 ## Javascript
-1. A **Digital Dashboard** that dynamically consumes data from a web API and generates visual representation relating to the COVID-19 pandemic.
+1. A **Digital Dashboard** that dynamically consumes data from a web API and generates visual representation relating to the COVID-19 pandemic. This can be found [here](https://github.com/399Hong/DigitalDashboard).
     - Development Technologies
         - SVG
         - HTML
         - CSS
         - Javascript
 
-2. A single page **online store** website with multiple logical sections that communicates with serveral endpoints.
+2. A single page **online store** website with multiple logical sections that communicates with serveral endpoints. This can be found [here](https://github.com/399Hong/OnlineStore).
     - Development Technologies
         - HTML
         - CSS
