@@ -11,19 +11,19 @@
 1. A **Text summerizer (TextRank)** that works as a pre-trained model for the Strong-AI Lab at the University of Auckland. This can be found [here](https://github.com/399Hong/TextRank).
     - Development Technologies
          - Python🐍
-<br>
+
 2. A **library website** that features authentication, book search, book review and book registration. This can be found [here](https://github.com/399Hong/Library).
     - Development Technologies
         - Flask
         - SQLAlchemy
         - WTForms
         - Python🐍
-<br>
+
 3. A **rock detection** tool that analyzes longshore shift for a water engineering project. This can be found [here](https://github.com/399Hong/RockDetection).
     - Development Technologies
         - OpenCV
         - Python🐍
-<br>
+
 4. A **user space file system** that support regular commands, such as touch, echo, mkdir, and redo and undo. This can be found [here](https://github.com/399Hong/FileSystem).
     - Development Technologies
          - fuse
