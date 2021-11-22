@@ -29,7 +29,7 @@
          - fuse
          - Python🐍
 
-## C#
+## C\#
 1. A distibuted system that illustrates the Shakespearean Monkeys genetic algorithm. This can be found [here](https://github.com/399Hong/InfiniteMonkey).
     - Development Technologies
         - Carter
