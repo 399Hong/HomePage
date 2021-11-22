@@ -1,7 +1,7 @@
 # Projects
 ## Table of Contents
 1. [Python Projects](#Python)
-2. [C# Projects](#C\#)
+2. [C# Projects](#C)
 3. [C++ Projects](#C++)
 4. [Java Projects](#Java)
 5. [HTML, CSS and Javascript Projects](#Javascript)
