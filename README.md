@@ -12,7 +12,7 @@
     - Development Technologies
          - Python🐍
 
-2. A **library website** that features authentication, book search, book review and book registration. This can be found [here](https://github.com/399Hong/Library).
+2. A **library website** that supports authentication, book search, book review and book registration. This can be found [here](https://github.com/399Hong/Library).
     - Development Technologies
         - Flask
         - SQLAlchemy
