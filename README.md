@@ -41,6 +41,7 @@
     - Development Technologies
         - EF
         - Hot Chocolate
+        - GraphQL
         - Azure SQL Database
         - ASP.NET
         - C# DOTNET 6
