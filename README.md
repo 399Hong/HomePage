@@ -37,6 +37,13 @@
         - SignalR
         - Blazor
         - C#
+ 2. (In Progress) a website that displays projects and allows users makes comments. This can be found [here](https://github.com/399Hong/Yearbook).
+    - Development Technologies
+        - EF
+        - Hot Chocolate
+        - Azure SQL Database
+        - ASP.NET
+        - C# DOTNET 6
 
 ## C\+\+
 1. Flappy bird
