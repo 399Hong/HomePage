@@ -1,4 +1,4 @@
-Please find my most recent [CV](https://drive.google.com/file/d/1UTPu6ri-oTxf9Ep6Zg-nFRmc785IvwjC/view?usp=sharing) here (last update: 17 Dec).
+Please find my most recent [CV](https://drive.google.com/file/d/1VUc_dgu78qQDAkulIKotHy05_TgsoBPe/view?usp=sharing) here (last update: 17 Dec).
 <br>
 # Projects
 ## Table of Contents
