@@ -3,11 +3,11 @@
 ## Table of Contents
 1. [Python Projects](#Python)
 2. [C# Projects](#C#)
-3. [C++ Projects](#c-1)
+3. [C++ Projects](#C++)
 4. [Java Projects](#Java)
 5. [HTML, CSS and Javascript Projects](#Javascript)
 
-
+<a name="Python"></a>
 ## Python
 1. A **Text summerizer (TextRank)** that works as a pre-trained model for the Strong-AI Lab at the University of Auckland. This can be found [here](https://github.com/399Hong/TextRank).
     - Development Technologies
@@ -29,7 +29,7 @@
     - Development Technologies
          - fuse
          - Python🐍
-
+<a name="C#"></a>
 ## C\#
 1. A distibuted system that illustrates the Shakespearean Monkeys genetic algorithm. This can be found [here](https://github.com/399Hong/InfiniteMonkey).
     - Development Technologies
@@ -46,18 +46,19 @@
         - Azure SQL Database
         - ASP.NET
         - C# DOTNET 6
-
+<a name="C++"></a>
 ## C\+\+
 1. Flappy bird
     - Development Technologies
          - SFML
          - C++
+<a name="Java"></a>
 ## Java
 1. A **Packet Analyzer** analyzes packet data and displays the data in tabular form. This can be found [here](https://github.com/399Hong/PacketAnalyzer).
     - Development Technologies
         - Swing
         - Java
-
+<a name="Javascript"></a>
 ## Javascript
 1. A **Digital Dashboard** that dynamically consumes data from a web API and generates visual representation relating to the COVID-19 pandemic. This can be found [here](https://github.com/399Hong/DigitalDashboard).
     - Development Technologies
