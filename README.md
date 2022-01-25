@@ -1,10 +1,8 @@
-<!--Please find my most recent CV [here](https://drive.google.com/file/d/1VUc_dgu78qQDAkulIKotHy05_TgsoBPe/view?usp=sharing) (last update: 17 Dec).-->
-
-<br>
+<!---Please find my most recent CV [here](https://drive.google.com/file/d/1VUc_dgu78qQDAkulIKotHy05_TgsoBPe/view?usp=sharing) (last update: 17 Dec).--->
 # Projects
 ## Table of Contents
 1. [Python Projects](#Python)
-2. [C# Projects](#C)
+2. [C# Projects](#C#)
 3. [C++ Projects](#c-1)
 4. [Java Projects](#Java)
 5. [HTML, CSS and Javascript Projects](#Javascript)
