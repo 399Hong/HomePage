@@ -46,6 +46,9 @@
         - Azure SQL Database
         - ASP.NET
         - C# DOTNET 6
+        - React
+        - Material UI (MUI)
+        - Apollo Client
 <a name="C++"></a>
 ## C\+\+
 1. Flappy bird
